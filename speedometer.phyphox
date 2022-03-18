@@ -1,0 +1,28 @@
+<phyphox xmlns="http://phyphox.org/xml" xmlns:editor="http://phyphox.org/editor/xml" version="1.7" editor:version="1.0" locale="en">
+    <title>Speedometer</title>
+    <category>Mechanics</category>
+    <description>Display the GPS speed with rather large digits</description>
+    <data-containers>
+        <container size="1" static="false">v</container>
+    </data-containers>
+    <input>
+        <location>
+            <output component="v">v</output>
+        </location>
+    </input>
+    <output>
+    </output>
+    <views>
+        <view label="Speedometer">
+            <value label="km per h" size="3" precision="1" factor="3.6" >
+                <input>v</input>
+            </value>
+            <separator height="2" />
+            <value color="ff7e22" label="m per s" size="3" precision="1">
+                <input>v</input>
+            </value>
+        </view>
+    </views>
+    <export>
+    </export>
+</phyphox>
