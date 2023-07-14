@@ -64,18 +64,18 @@ Export formats
 Remote Control
 
 “Hidden” Pages:
-- phyphox.org/20yrleifi
-- cotwo
-- Fairs: didacta, learntec, molol2022
-- game-changing-support-for-3d-depth-sensors
-- Events: hl2017, hl2018, lehre2019, lehre2020, lehre2021, lehre2022, lehre2023
-- languages
-- lidar
-- Talks: mint-aktionswoche, molol
-- mnu-arduino
-- newsletter
-- piday
-- radius
-- reply-sky-dragon
-- sun
-- xmas
+- https://phyphox.org/20yrleifi
+- https://phyphox.org/cotwo
+- Fairs: https://phyphox.org/didacta, https://phyphox.org/learntec, https://phyphox.org/molol2022
+- https://phyphox.org/game-changing-support-for-3d-depth-sensors
+- Events: https://phyphox.org/hl2017, https://phyphox.org/hl2018, https://phyphox.org/lehre2019, https://phyphox.org/lehre2020, https://phyphox.org/lehre2021, https://phyphox.org/lehre2022, https://phyphox.org/lehre2023
+- https://phyphox.org/languages
+- https://phyphox.org/lidar
+- Talks: https://phyphox.org/mint-aktionswoche, https://phyphox.org/molol
+- https://phyphox.org/mnu-arduino
+- https://phyphox.org/newsletter
+- https://phyphox.org/piday
+- https://phyphox.org/radius
+- https://phyphox.org/reply-sky-dragon
+- https://phyphox.org/sun
+- https://phyphox.org/xmas
