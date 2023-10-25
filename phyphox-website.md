@@ -14,8 +14,8 @@ English | Deutsch [ | Others ] **(im Footer)**
 Home
 - Video _(muss aktualisiert werden, wo platzieren hängt dann vermutlich vom Inhalt ab)_
 - Features **App**
-- Awards _(separate Seite? mglw. phyphox-Geschichte?)
-- Support **Startseite** **Unterstützen**
+- Awards **Startseite** _(separate Seite? mglw. phyphox-Geschichte?)_
+- Support **Startseite**, **Unterstützen**
 - Behind phyphox **Über uns**
 - Contribute **Unterstützen** **(Header ->, Startseite ->, Über uns->)** _(separate Spendenseite?)_
 
@@ -67,9 +67,9 @@ Frequently Asked Questions **(Footer ->, Lehre/Bildung ->, Unterstützen ->)**
 
 Supported Sensors **App** _(App ->?)_
 
-Export formats **(App ->)**
+Export formats **App**
 
-Remote Control **(App ->)**
+Remote Control **App**
 
 Social Media **(Footer ->, App->, Projekte ->, Kontakt ->)**
 
